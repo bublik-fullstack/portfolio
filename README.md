@@ -1,4 +1,6 @@
 ###
 <h1 align="left">Портфолио</h1>
 
-###test
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=/bublik-fullstack/portfolio&"  />
+</div>
